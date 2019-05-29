@@ -13,7 +13,7 @@ public class ArrayPparameters {
 		int[] myNums = new int[] { 3388484, 858585, 93039309, 9409 };
 		printArray(myNums);// all values will be assigned from myNums into nums [] in the method which we
 							// created
-		int[] one = { 10, 2, 3, };
+		int[] one = { 10, 2, 3, 9};
 		int[] two = { 3, 1, 5, 3, 2, 5, 2, 1, 6 };
 		print2Arrays(one, two);
 
