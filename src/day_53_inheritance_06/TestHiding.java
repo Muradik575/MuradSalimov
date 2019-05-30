@@ -25,8 +25,8 @@ public class TestHiding {
 		City c2 = new City(745,"Ufa");
 		Capital cap3 = new Capital(987,"Naxchivan",734567987L);
 		
-		c2.letsBuildTheRoad();
-		cap3.letsBuildTheRoad();
+		c2.letsBuildTheRoad(); // City
+		cap3.letsBuildTheRoad(); // City
 		
 	}
 

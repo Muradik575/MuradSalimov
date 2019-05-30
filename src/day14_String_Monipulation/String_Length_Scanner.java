@@ -4,8 +4,7 @@ import java.util.Scanner;
 public class String_Length_Scanner {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-String word1, word2;
+		String word1, word2;
 		Scanner scan =new Scanner(System.in);
 		
 		System.out.println("Enter 2 words");
@@ -20,10 +19,5 @@ String word1, word2;
 		}else {
 			System.out.println(word1+ " and "+ word2+ " are equal");
 		}
-		
-		
-		
-		
 	}
-
 }
